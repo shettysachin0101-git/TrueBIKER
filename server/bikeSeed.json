@@ -1,0 +1,2128 @@
+[
+  {
+    "bikeName": "Hero Splendor Plus",
+    "brand": "Hero",
+    "engineCC": 97,
+    "mileage": 65,
+    "topSpeed": 87,
+    "price": 75400,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 112,
+    "seatHeight": 785,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "i3S Tech",
+      "Alloy Wheels",
+      "APDV Engine",
+      "Analogue Console"
+    ],
+    "pros": [
+      "Phenomenal fuel efficiency",
+      "Ultra-low maintenance cost",
+      "Excellent reliability"
+    ],
+    "cons": [
+      "Outdated design",
+      "Lacks front disc brake",
+      "Poor high-speed stability"
+    ],
+    "imageUrl": "/images/hero-splendor-plus.jpg",
+    "officialWebsite": "https://www.heromotocorp.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Hero HF Deluxe",
+    "brand": "Hero",
+    "engineCC": 97,
+    "mileage": 68,
+    "topSpeed": 85,
+    "price": 60500,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 110,
+    "seatHeight": 805,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "i3S Tech",
+      "Electric Start",
+      "Long Seat",
+      "Tubeless Tyres"
+    ],
+    "pros": [
+      "Very affordable pricing",
+      "Superior mileage",
+      "Light and easy to ride"
+    ],
+    "cons": [
+      "Extremely basic looks",
+      "Drum brakes only",
+      "Minimal features"
+    ],
+    "imageUrl": "/images/hero-hf-deluxe.jpg",
+    "officialWebsite": "https://www.heromotocorp.com",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Hero Glamour Xtec",
+    "brand": "Hero",
+    "engineCC": 125,
+    "mileage": 55,
+    "topSpeed": 95,
+    "price": 88500,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 122,
+    "seatHeight": 793,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "Bluetooth Navigation",
+      "LED Headlight",
+      "USB Charger",
+      "Digital Console"
+    ],
+    "pros": [
+      "Refined engine",
+      "Modern features for its class",
+      "Comfortable ride"
+    ],
+    "cons": [
+      "Rear drum brake on standard variant",
+      "Plastic quality is average"
+    ],
+    "imageUrl": "/images/hero-glamour-xtec.jpg",
+    "officialWebsite": "https://www.heromotocorp.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Hero Xpulse 200 4V",
+    "brand": "Hero",
+    "engineCC": 200,
+    "mileage": 40,
+    "topSpeed": 115,
+    "price": 146000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 158,
+    "seatHeight": 825,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Adventure",
+      "Off-Road"
+    ],
+    "features": [
+      "Long Travel Suspension",
+      "Spoke Wheels",
+      "Dual-purpose Tyres",
+      "Turn-by-Turn GPS"
+    ],
+    "pros": [
+      "Superb off-road handling",
+      "Affordable adventure bike",
+      "Comfortable standing posture"
+    ],
+    "cons": [
+      "Stiff seat padding",
+      "Strains above 100 km/h on highways",
+      "Basic braking feel"
+    ],
+    "imageUrl": "/images/hero-xpulse-200-4v.jpg",
+    "officialWebsite": "https://www.heromotocorp.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Hero Karizma XMR",
+    "brand": "Hero",
+    "engineCC": 210,
+    "mileage": 35,
+    "topSpeed": 143,
+    "price": 180000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 163,
+    "seatHeight": 810,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Sports",
+      "Street"
+    ],
+    "features": [
+      "Liquid Cooled Engine",
+      "Slip & Assist Clutch",
+      "Dual Channel ABS",
+      "Digital Speedo"
+    ],
+    "pros": [
+      "Exciting top-end performance",
+      "Modern design appeal",
+      "Good value for money"
+    ],
+    "cons": [
+      "Vibrations at mid-range RPMs",
+      "Aggressive pillion seat height"
+    ],
+    "imageUrl": "/images/hero-karizma-xmr.jpg",
+    "officialWebsite": "https://www.heromotocorp.com",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Hero Mavrick 440",
+    "brand": "Hero",
+    "engineCC": 440,
+    "mileage": 30,
+    "topSpeed": 150,
+    "price": 199000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 187,
+    "seatHeight": 803,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Retro",
+      "Street"
+    ],
+    "features": [
+      "Torquey Engine",
+      "Full LED Lights",
+      "TFT Instrument Screen",
+      "Slipper Clutch"
+    ],
+    "pros": [
+      "Strong low-end pull",
+      "Muscular naked design",
+      "Comfortable ride stance"
+    ],
+    "cons": [
+      "Average fuel economy",
+      "Heavy weight in heavy traffic"
+    ],
+    "imageUrl": "/images/hero-mavrick-440.jpg",
+    "officialWebsite": "https://www.heromotocorp.com",
+    "launchYear": 2024,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Honda Activa 6G",
+    "brand": "Honda",
+    "engineCC": 110,
+    "mileage": 50,
+    "topSpeed": 85,
+    "price": 76000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "weight": 105,
+    "seatHeight": 765,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Scooter",
+      "Commuter"
+    ],
+    "features": [
+      "Silent Starter",
+      "External Fuel Fill",
+      "Telescopic Fork",
+      "Esp Technology"
+    ],
+    "pros": [
+      "Indestructible engine reliability",
+      "Top-tier resale value",
+      "Very easy automatic ride"
+    ],
+    "cons": [
+      "Dated design language",
+      "Basic drum brakes",
+      "Analogue console on basic trims"
+    ],
+    "imageUrl": "/images/honda-activa-6g.jpg",
+    "officialWebsite": "https://www.honda2wheelersindia.com",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Honda Shine 125",
+    "brand": "Honda",
+    "engineCC": 124,
+    "mileage": 58,
+    "topSpeed": 95,
+    "price": 80000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 114,
+    "seatHeight": 791,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "5-Speed Gearbox",
+      "Silent Start System",
+      "Chrome Exhaust Shield",
+      "Tubeless Tyres"
+    ],
+    "pros": [
+      "Super smooth engine",
+      "Excellent suspension comfort",
+      "Very durable paint finish"
+    ],
+    "cons": [
+      "Boring commuter design",
+      "Narrow rear tire footprint"
+    ],
+    "imageUrl": "/images/honda-shine-125.jpg",
+    "officialWebsite": "https://www.honda2wheelersindia.com",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Honda Unicorn",
+    "brand": "Honda",
+    "engineCC": 163,
+    "mileage": 50,
+    "topSpeed": 106,
+    "price": 110000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 140,
+    "seatHeight": 798,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "Mono Suspension",
+      "ABS Braking",
+      "3D Emblem",
+      "Long Stretched Seat"
+    ],
+    "pros": [
+      "Outstanding comfort levels",
+      "Relaxed commuter ergonomics",
+      "Unmatched engine durability"
+    ],
+    "cons": [
+      "Styling unchanged for 15 years",
+      "No digital speedo or features"
+    ],
+    "imageUrl": "/images/honda-unicorn.jpg",
+    "officialWebsite": "https://www.honda2wheelersindia.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Honda H'ness CB350",
+    "brand": "Honda",
+    "engineCC": 348,
+    "mileage": 35,
+    "topSpeed": 130,
+    "price": 210000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 181,
+    "seatHeight": 800,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ],
+    "features": [
+      "Honda Selectable Torque Control",
+      "Bluetooth Assist",
+      "Slip-Assist Clutch",
+      "Dual ABS"
+    ],
+    "pros": [
+      "Exquisite engine refinement",
+      "Premium classic exhaust thump",
+      "High-quality chrome components"
+    ],
+    "cons": [
+      "Tall gearing requires frequent shifts",
+      "Only sold at BigWing dealerships"
+    ],
+    "imageUrl": "/images/honda-hness-cb350.jpg",
+    "officialWebsite": "https://www.honda2wheelersindia.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Honda CB300R",
+    "brand": "Honda",
+    "engineCC": 286,
+    "mileage": 30,
+    "topSpeed": 150,
+    "price": 240000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 146,
+    "seatHeight": 801,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Street",
+      "Sports"
+    ],
+    "features": [
+      "USD Front Forks",
+      "LED Lighting",
+      "LCD Digital Meter",
+      "Assist Clutch"
+    ],
+    "pros": [
+      "Extremely lightweight agile frame",
+      "Great power-to-weight ratio",
+      "Sporty neo-sports look"
+    ],
+    "cons": [
+      "Small fuel tank limits highway trips",
+      "Very firm rider seat padding"
+    ],
+    "imageUrl": "/images/honda-cb300r.jpg",
+    "officialWebsite": "https://www.honda2wheelersindia.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Yamaha MT-15 V2",
+    "brand": "Yamaha",
+    "engineCC": 155,
+    "mileage": 48,
+    "topSpeed": 130,
+    "price": 168000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 139,
+    "seatHeight": 810,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Street",
+      "Sports"
+    ],
+    "features": [
+      "VVA Engine",
+      "Traction Control",
+      "USD Forks",
+      "Y-Connect Bluetooth"
+    ],
+    "pros": [
+      "Amazing low-to-mid acceleration",
+      "Aggressive look",
+      "Highly agile street handling"
+    ],
+    "cons": [
+      "Tiny pillion passenger seat",
+      "Stiff front suspension ride"
+    ],
+    "imageUrl": "/images/yamaha-mt-15-v2.jpg",
+    "officialWebsite": "https://www.yamaha-motor-india.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Yamaha R15 V4",
+    "brand": "Yamaha",
+    "engineCC": 155,
+    "mileage": 45,
+    "topSpeed": 140,
+    "price": 182000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 141,
+    "seatHeight": 815,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Sports"
+    ],
+    "features": [
+      "Variable Valves (VVA)",
+      "Quickshifter",
+      "Dual ABS",
+      "Aerodynamic Fairing"
+    ],
+    "pros": [
+      "High-speed track capabilities",
+      "Looks like a bigger superbike",
+      "Excellent mileage for sports class"
+    ],
+    "cons": [
+      "Aggressive committed forward lean stance",
+      "Tiring for long daily commutes"
+    ],
+    "imageUrl": "/images/yamaha-r15-v4.jpg",
+    "officialWebsite": "https://www.yamaha-motor-india.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Yamaha FZ-S FI V4",
+    "brand": "Yamaha",
+    "engineCC": 149,
+    "mileage": 49,
+    "topSpeed": 115,
+    "price": 129000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 136,
+    "seatHeight": 790,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Street",
+      "Commuter"
+    ],
+    "features": [
+      "Traction Control System",
+      "LED Headlight & DRL",
+      "Digital Console",
+      "Single Channel ABS"
+    ],
+    "pros": [
+      "Plush single seat comfort",
+      "Low-end torque is great in traffic",
+      "Clean modern naked styling"
+    ],
+    "cons": [
+      "Top-end power is flat",
+      "Plastic feeling buttons"
+    ],
+    "imageUrl": "/images/yamaha-fz-s-fi-v4.jpg",
+    "officialWebsite": "https://www.yamaha-motor-india.com",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Yamaha Aerox 155",
+    "brand": "Yamaha",
+    "engineCC": 155,
+    "mileage": 45,
+    "topSpeed": 120,
+    "price": 148000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "weight": 126,
+    "seatHeight": 790,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Scooter",
+      "Sports"
+    ],
+    "features": [
+      "Liquid Cooled VVA Engine",
+      "Keyless Ignition",
+      "ABS Braking",
+      "Large Underseat Storage"
+    ],
+    "pros": [
+      "Scooter convenience with bike power",
+      "Excellent handling dynamics",
+      "Eye-catching design"
+    ],
+    "cons": [
+      "Rear suspension is quite stiff",
+      "No flat floorboard space for luggage"
+    ],
+    "imageUrl": "/images/yamaha-aerox-155.jpg",
+    "officialWebsite": "https://www.yamaha-motor-india.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "KTM Duke 200",
+    "brand": "KTM",
+    "engineCC": 200,
+    "mileage": 35,
+    "topSpeed": 140,
+    "price": 196000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 159,
+    "seatHeight": 822,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Street",
+      "Sports"
+    ],
+    "features": [
+      "Liquid Cooled DOHC",
+      "WP USD Suspension",
+      "Underbelly Exhaust",
+      "Dual ABS"
+    ],
+    "pros": [
+      "Very aggressive revving performance",
+      "High cornering grip",
+      "Premium cycle parts"
+    ],
+    "cons": [
+      "Very firm rider seats",
+      "Runs hot in bumper-to-bumper city traffic"
+    ],
+    "imageUrl": "/images/ktm-duke-200.jpg",
+    "officialWebsite": "https://www.ktmindia.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "KTM Duke 390",
+    "brand": "KTM",
+    "engineCC": 399,
+    "mileage": 28,
+    "topSpeed": 160,
+    "price": 311000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 168,
+    "seatHeight": 800,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Street",
+      "Sports"
+    ],
+    "features": [
+      "Launch Control",
+      "Cornering MTC",
+      "Quickshifter Plus",
+      "5-inch TFT Display"
+    ],
+    "pros": [
+      "Explosive acceleration performance",
+      "Superb tech electronics package",
+      "Lightweight cornering monster"
+    ],
+    "cons": [
+      "Stiff rear shock on bad roads",
+      "Poor mileage when ridden hard"
+    ],
+    "imageUrl": "/images/ktm-duke-390.jpg",
+    "officialWebsite": "https://www.ktmindia.com",
+    "launchYear": 2024,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "KTM 390 Adventure",
+    "brand": "KTM",
+    "engineCC": 373,
+    "mileage": 28,
+    "topSpeed": 155,
+    "price": 342000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 177,
+    "seatHeight": 855,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ],
+    "features": [
+      "Adjustable WP Susp",
+      "Traction Control",
+      "Cornering ABS",
+      "Turn-by-turn Display"
+    ],
+    "pros": [
+      "Excellent long distance tourer",
+      "Highly functional riding modes",
+      "Powerful highway engine capability"
+    ],
+    "cons": [
+      "Tall seat height makes it inaccessible",
+      "Weak low-end torque pull"
+    ],
+    "imageUrl": "/images/ktm-390-adventure.jpg",
+    "officialWebsite": "https://www.ktmindia.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Royal Enfield Classic 350",
+    "brand": "Royal Enfield",
+    "engineCC": 349,
+    "mileage": 35,
+    "topSpeed": 114,
+    "price": 193000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 195,
+    "seatHeight": 805,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ],
+    "features": [
+      "J-Series Engine",
+      "Analogue-Digital Panel",
+      "Tripper Navigation",
+      "Dual Disk brakes"
+    ],
+    "pros": [
+      "Timeless iconic look",
+      "Very smooth J-series engine updates",
+      "Excellent stability at cruise speed"
+    ],
+    "cons": [
+      "Very heavy (195 kg)",
+      "Slow acceleration compared to modern 300cc bikes"
+    ],
+    "imageUrl": "/images/royal-enfield-classic-350.jpg",
+    "officialWebsite": "https://www.royalenfield.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Royal Enfield Hunter 350",
+    "brand": "Royal Enfield",
+    "engineCC": 349,
+    "mileage": 36,
+    "topSpeed": 114,
+    "price": 150000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 181,
+    "seatHeight": 790,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Street",
+      "Retro"
+    ],
+    "features": [
+      "Lightweight Frame",
+      "Retro-Metro Console",
+      "USB Charging Port",
+      "Single-Channel ABS"
+    ],
+    "pros": [
+      "Most agile Royal Enfield model",
+      "Extremely accessible seat height",
+      "Very attractive pricing"
+    ],
+    "cons": [
+      "Stiff rear shock setup",
+      "Short rider controls feels a bit compact"
+    ],
+    "imageUrl": "/images/royal-enfield-hunter-350.jpg",
+    "officialWebsite": "https://www.royalenfield.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Royal Enfield Himalayan 450",
+    "brand": "Royal Enfield",
+    "engineCC": 452,
+    "mileage": 30,
+    "topSpeed": 145,
+    "price": 285000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 196,
+    "seatHeight": 825,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "High",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ],
+    "features": [
+      "Liquid Cooled Sherpa Engine",
+      "Circular TFT Maps Screen",
+      "Ride-by-wire Throttle",
+      "USD Forks"
+    ],
+    "pros": [
+      "Phenomenal off-road suspension",
+      "Google Maps directly on console",
+      "Torquey performance"
+    ],
+    "cons": [
+      "Extremely heavy to pick up on trails",
+      "Engine vibrations above 6500 RPM"
+    ],
+    "imageUrl": "/images/royal-enfield-himalayan-450.jpg",
+    "officialWebsite": "https://www.royalenfield.com",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Royal Enfield Interceptor 650",
+    "brand": "Royal Enfield",
+    "engineCC": 648,
+    "mileage": 24,
+    "topSpeed": 170,
+    "price": 303000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 213,
+    "seatHeight": 804,
+    "reliabilityScore": 9,
+    "beginnerFriendly": false,
+    "resaleValue": "High",
+    "categories": [
+      "Retro",
+      "Touring"
+    ],
+    "features": [
+      "Parallel Twin Engine",
+      "Slipper Clutch",
+      "Dual Slipon Exhausts",
+      "Classic Spoke Wheels"
+    ],
+    "pros": [
+      "Smooth parallel twin power",
+      "Stunning retro aesthetics",
+      "High value for a twin cylinder"
+    ],
+    "cons": [
+      "Soft seat padding hurts on long rides",
+      "Sub-par front suspension damping"
+    ],
+    "imageUrl": "/images/royal-enfield-interceptor-650.jpg",
+    "officialWebsite": "https://www.royalenfield.com",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Bajaj Platina 110",
+    "brand": "Bajaj",
+    "engineCC": 115,
+    "mileage": 70,
+    "topSpeed": 90,
+    "price": 70400,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 119,
+    "seatHeight": 807,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "Single-Channel ABS",
+      "LED DRL",
+      "Nitrox Rear Shock",
+      "Digital Speedo"
+    ],
+    "pros": [
+      "Industry leading comfort suspension",
+      "Class first single-channel ABS",
+      "Incredible mileage"
+    ],
+    "cons": [
+      "No front disc brake on lower trims",
+      "Thin tires look cheap"
+    ],
+    "imageUrl": "/images/bajaj-platina-110.jpg",
+    "officialWebsite": "https://www.bajajauto.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Bajaj Pulsar 150",
+    "brand": "Bajaj",
+    "engineCC": 150,
+    "mileage": 47,
+    "topSpeed": 115,
+    "price": 115000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 148,
+    "seatHeight": 785,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "Semi-Digital Console",
+      "Clip-on Handlebars",
+      "Twin LED DRLs",
+      "Tubeless Tyres"
+    ],
+    "pros": [
+      "Highly popular design styling",
+      "Very cheap spare parts",
+      "Comfortable daily commuter"
+    ],
+    "cons": [
+      "Vibrations felt at higher speeds",
+      "Gear shifts can feel clunky"
+    ],
+    "imageUrl": "/images/bajaj-pulsar-150.jpg",
+    "officialWebsite": "https://www.bajajauto.com",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Bajaj Pulsar NS200",
+    "brand": "Bajaj",
+    "engineCC": 200,
+    "mileage": 35,
+    "topSpeed": 136,
+    "price": 143000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 156,
+    "seatHeight": 805,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Street",
+      "Sports"
+    ],
+    "features": [
+      "Perimeter Frame",
+      "Liquid Cooled 4V",
+      "Underbelly Exhaust",
+      "Dual ABS"
+    ],
+    "pros": [
+      "Brilliant streetfighter chassis handling",
+      "Aggressive styling presence",
+      "High-revving engine"
+    ],
+    "cons": [
+      "Outdated instrument console layout",
+      "Wide turning radius"
+    ],
+    "imageUrl": "/images/bajaj-pulsar-ns200.jpg",
+    "officialWebsite": "https://www.bajajauto.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Bajaj Dominar 400",
+    "brand": "Bajaj",
+    "engineCC": 373,
+    "mileage": 27,
+    "topSpeed": 156,
+    "price": 230000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 193,
+    "seatHeight": 800,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Touring",
+      "Street"
+    ],
+    "features": [
+      "Touring visor & racks",
+      "Liquid-cooled engine",
+      "Slipper Clutch",
+      "Full LED Lights"
+    ],
+    "pros": [
+      "Superb touring capabilities",
+      "Excellent highway cruising comfort",
+      "Unbeatable price for 400cc class"
+    ],
+    "cons": [
+      "Very heavy curb weight (193 kg)",
+      "Engine vibrations at high RPMs"
+    ],
+    "imageUrl": "/images/bajaj-dominar-400.jpg",
+    "officialWebsite": "https://www.bajajauto.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "TVS Raider 125",
+    "brand": "TVS",
+    "engineCC": 125,
+    "mileage": 57,
+    "topSpeed": 99,
+    "price": 97000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 123,
+    "seatHeight": 780,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Commuter",
+      "Street"
+    ],
+    "features": [
+      "TFT Display Console",
+      "Ride Modes",
+      "Underseat Storage",
+      "USB Charger"
+    ],
+    "pros": [
+      "Excellent sporty styling",
+      "Class-leading TFT display tech",
+      "Good fuel economy"
+    ],
+    "cons": [
+      "Flimsy plastic switches",
+      "Lacks rear disc brake option"
+    ],
+    "imageUrl": "/images/tvs-raider-125.jpg",
+    "officialWebsite": "https://www.tvsmotor.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "TVS Apache RTR 160 4V",
+    "brand": "TVS",
+    "engineCC": 160,
+    "mileage": 45,
+    "topSpeed": 114,
+    "price": 124000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 144,
+    "seatHeight": 800,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Street",
+      "Sports"
+    ],
+    "features": [
+      "Dedicated Ride Modes",
+      "SmartXonnect Bluetooth",
+      "GTT (Glide Through Traffic)",
+      "Radial Tyre"
+    ],
+    "pros": [
+      "Excellent acceleration and power",
+      "Refined performance engine",
+      "Very comfortable single-seat option"
+    ],
+    "cons": [
+      "Single-channel ABS on base trim",
+      "Sporty riding stance is slightly leaning"
+    ],
+    "imageUrl": "/images/tvs-apache-rtr-160-4v.jpg",
+    "officialWebsite": "https://www.tvsmotor.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "TVS Ronin",
+    "brand": "TVS",
+    "engineCC": 226,
+    "mileage": 42,
+    "topSpeed": 120,
+    "price": 150000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 160,
+    "seatHeight": 795,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ],
+    "features": [
+      "Asymmetric Instrument cluster",
+      "Glide Tech",
+      "Rain & Urban ABS modes",
+      "Slipper Clutch"
+    ],
+    "pros": [
+      "Extremely comfortable upright seating",
+      "Great low-to-mid city power",
+      "Retro scrambler charm"
+    ],
+    "cons": [
+      "Polarizing tail rear section styling",
+      "Wind blast on highways above 95 km/h"
+    ],
+    "imageUrl": "/images/tvs-ronin.jpg",
+    "officialWebsite": "https://www.tvsmotor.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "TVS Apache RR 310",
+    "brand": "TVS",
+    "engineCC": 312,
+    "mileage": 30,
+    "topSpeed": 160,
+    "price": 272000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 174,
+    "seatHeight": 810,
+    "reliabilityScore": 9,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Sports"
+    ],
+    "features": [
+      "Vertical TFT Dashboard",
+      "Michelin Road 5 tyres",
+      "Throttle-by-wire",
+      "Race telemetry"
+    ],
+    "pros": [
+      "Superb aerodynamic race design",
+      "Advanced console telemetry",
+      "Highly stable cornering"
+    ],
+    "cons": [
+      "Vibrations felt in seat at high RPMs",
+      "Wide turning radius"
+    ],
+    "imageUrl": "/images/tvs-apache-rr-310.jpg",
+    "officialWebsite": "https://www.tvsmotor.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Suzuki Access 125",
+    "brand": "Suzuki",
+    "engineCC": 124,
+    "mileage": 50,
+    "topSpeed": 90,
+    "price": 80000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "weight": 103,
+    "seatHeight": 773,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Scooter",
+      "Commuter"
+    ],
+    "features": [
+      "Chrome Styling bezel",
+      "External Fuel cap",
+      "LED Headlight",
+      "Bluetooth Connectivity"
+    ],
+    "pros": [
+      "Very refined engine performance",
+      "Large seat and boot storage",
+      "Smooth fuel delivery"
+    ],
+    "cons": [
+      "Lacks a modern digital dashboard in basic trims",
+      "Brake bite is slightly soft"
+    ],
+    "imageUrl": "/images/suzuki-access-125.jpg",
+    "officialWebsite": "https://www.suzukimotorcycle.co.in",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Suzuki Gixxer SF 250",
+    "brand": "Suzuki",
+    "engineCC": 249,
+    "mileage": 35,
+    "topSpeed": 150,
+    "price": 192000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 161,
+    "seatHeight": 800,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Sports",
+      "Touring"
+    ],
+    "features": [
+      "SOCS (Suzuki Oil Cooling)",
+      "LED Headlamp",
+      "Clip-on Handlebars",
+      "Dual Channel ABS"
+    ],
+    "pros": [
+      "Super refined highway touring performance",
+      "Aerodynamic sports fairing",
+      "Comfortable clip-on posture"
+    ],
+    "cons": [
+      "Dated instrument console screen",
+      "Hard compound stock tyres"
+    ],
+    "imageUrl": "/images/suzuki-gixxer-sf-250.jpg",
+    "officialWebsite": "https://www.suzukimotorcycle.co.in",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Suzuki V-Strom SX 250",
+    "brand": "Suzuki",
+    "engineCC": 249,
+    "mileage": 35,
+    "topSpeed": 135,
+    "price": 212000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 167,
+    "seatHeight": 835,
+    "reliabilityScore": 10,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ],
+    "features": [
+      "Dual-purpose Tyres",
+      "Windscreen",
+      "Suzuki Easy Start",
+      "Mobile Mount point"
+    ],
+    "pros": [
+      "Sensational engine refinement",
+      "Great highway cruise pace",
+      "Generous rider seat comfort"
+    ],
+    "cons": [
+      "Limited front suspension travel for offroad",
+      "No switchable ABS"
+    ],
+    "imageUrl": "/images/suzuki-v-strom-sx-250.jpg",
+    "officialWebsite": "https://www.suzukimotorcycle.co.in",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Suzuki Hayabusa",
+    "brand": "Suzuki",
+    "engineCC": 1340,
+    "mileage": 15,
+    "topSpeed": 299,
+    "price": 1690000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 264,
+    "seatHeight": 800,
+    "reliabilityScore": 10,
+    "beginnerFriendly": false,
+    "resaleValue": "High",
+    "categories": [
+      "Sports",
+      "Superbike"
+    ],
+    "features": [
+      "6-axis IMU electronics",
+      "Launch Control",
+      "Active Speed Limiter",
+      "Brembo Stylema brakes"
+    ],
+    "pros": [
+      "Ultimate high-speed stability",
+      "Legendary inline-4 power delivery",
+      "Iconic hyperbike presence"
+    ],
+    "cons": [
+      "Massive weight is painful in traffic",
+      "Extremely high running cost"
+    ],
+    "imageUrl": "/images/suzuki-hayabusa.jpg",
+    "officialWebsite": "https://www.suzukimotorcycle.co.in",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Kawasaki Ninja 300",
+    "brand": "Kawasaki",
+    "engineCC": 296,
+    "mileage": 26,
+    "topSpeed": 160,
+    "price": 343000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 179,
+    "seatHeight": 785,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Sports"
+    ],
+    "features": [
+      "Parallel Twin Engine",
+      "Slipper Clutch",
+      "Dual ABS",
+      "Analogue Tachometer"
+    ],
+    "pros": [
+      "Silky-smooth twin cylinder engine",
+      "Highly beginner-friendly control",
+      "Plush seat cushioning"
+    ],
+    "cons": [
+      "Dated instrument dashboard",
+      "Expensive spare parts and service"
+    ],
+    "imageUrl": "/images/kawasaki-ninja-300.jpg",
+    "officialWebsite": "https://www.kawasaki-india.com",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Kawasaki Ninja ZX-4R",
+    "brand": "Kawasaki",
+    "engineCC": 399,
+    "mileage": 22,
+    "topSpeed": 210,
+    "price": 849000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 189,
+    "seatHeight": 800,
+    "reliabilityScore": 9,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Sports",
+      "Superbike"
+    ],
+    "features": [
+      "Inline-4 Engine",
+      "TFT Display console",
+      "Kawasaki Traction Control",
+      "Riding Modes"
+    ],
+    "pros": [
+      "Screaming 15,000 RPM exhaust note",
+      "True superbike feel in small frame",
+      "Premium braking system"
+    ],
+    "cons": [
+      "Extremely expensive for 400cc",
+      "Low-end torque is weak"
+    ],
+    "imageUrl": "/images/kawasaki-ninja-zx-4r.jpg",
+    "officialWebsite": "https://www.kawasaki-india.com",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Kawasaki Ninja 650",
+    "brand": "Kawasaki",
+    "engineCC": 649,
+    "mileage": 21,
+    "topSpeed": 212,
+    "price": 716000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 196,
+    "seatHeight": 790,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Sports",
+      "Touring"
+    ],
+    "features": [
+      "TFT Color Instrument Panel",
+      "Smartphone Connectivity",
+      "KTRC (Traction Control)",
+      "LED lights"
+    ],
+    "pros": [
+      "Very friendly power delivery",
+      "Comfortable upright riding posture",
+      "Excellent mid-range torque"
+    ],
+    "cons": [
+      "Low ground clearance on bumps",
+      "Exhaust sound is a bit dull"
+    ],
+    "imageUrl": "/images/kawasaki-ninja-650.jpg",
+    "officialWebsite": "https://www.kawasaki-india.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Kawasaki Z900",
+    "brand": "Kawasaki",
+    "engineCC": 948,
+    "mileage": 17,
+    "topSpeed": 240,
+    "price": 920000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 212,
+    "seatHeight": 820,
+    "reliabilityScore": 9,
+    "beginnerFriendly": false,
+    "resaleValue": "High",
+    "categories": [
+      "Street",
+      "Superbike"
+    ],
+    "features": [
+      "Inline-4 Engine",
+      "Power Modes",
+      "TFT Instrument Screen",
+      "LED Headlamp design"
+    ],
+    "pros": [
+      "Huge inline-4 performance value",
+      "Effortless overtaking acceleration",
+      "Very smooth gearbox shifts"
+    ],
+    "cons": [
+      "Basic front suspension adjustability",
+      "Firm pillion passenger seat pad"
+    ],
+    "imageUrl": "/images/kawasaki-z900.jpg",
+    "officialWebsite": "https://www.kawasaki-india.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Triumph Speed 400",
+    "brand": "Triumph",
+    "engineCC": 398,
+    "mileage": 30,
+    "topSpeed": 145,
+    "price": 233000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 170,
+    "seatHeight": 790,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Retro",
+      "Street"
+    ],
+    "features": [
+      "Ride-by-wire Throttle",
+      "Switchable Traction Control",
+      "Torque-Assist Clutch",
+      "USB-C Socket"
+    ],
+    "pros": [
+      "Unrivalled build finish quality",
+      "Extremely tractive engine pull",
+      "Outstandingly priced in class"
+    ],
+    "cons": [
+      "Feels a bit small for tall riders",
+      "Engine vibes creep in at high revs"
+    ],
+    "imageUrl": "/images/triumph-speed-400.jpg",
+    "officialWebsite": "https://www.triumphmotorcycles.in",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Triumph Scrambler 400X",
+    "brand": "Triumph",
+    "engineCC": 398,
+    "mileage": 28,
+    "topSpeed": 140,
+    "price": 263000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 179,
+    "seatHeight": 835,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Retro",
+      "Off-Road"
+    ],
+    "features": [
+      "Scrambler Ergonomics",
+      "Dual Purpose Metzeler Tyres",
+      "Off-road ABS settings",
+      "Handguards"
+    ],
+    "pros": [
+      "Very comfortable road view",
+      "Decent soft offroad potential",
+      "Premium styling bits"
+    ],
+    "cons": [
+      "Tall seat restricts short riders",
+      "Heavy front brake lever pull"
+    ],
+    "imageUrl": "/images/triumph-scrambler-400x.jpg",
+    "officialWebsite": "https://www.triumphmotorcycles.in",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Triumph Trident 660",
+    "brand": "Triumph",
+    "engineCC": 660,
+    "mileage": 20,
+    "topSpeed": 195,
+    "price": 812000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 189,
+    "seatHeight": 805,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Street"
+    ],
+    "features": [
+      "Inline-3 Engine",
+      "TFT Display Connectivity",
+      "Road & Rain Modes",
+      "Showa Suspensions"
+    ],
+    "pros": [
+      "Sweet triple cylinder sound",
+      "Linear and easy power curve",
+      "Agile character in curves"
+    ],
+    "cons": [
+      "Rear suspension feels slightly basic",
+      "Underbelly exhaust lacks ground clearance"
+    ],
+    "imageUrl": "/images/triumph-trident-660.jpg",
+    "officialWebsite": "https://www.triumphmotorcycles.in",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "BMW Motorrad G 310 R",
+    "brand": "BMW Motorrad",
+    "engineCC": 313,
+    "mileage": 30,
+    "topSpeed": 143,
+    "price": 290000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 164,
+    "seatHeight": 785,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Street"
+    ],
+    "features": [
+      "Ride by Wire",
+      "Slipper Clutch",
+      "LED headlight",
+      "Gold USD Forks"
+    ],
+    "pros": [
+      "Plush ride comfort",
+      "Premium BMW styling details",
+      "Lightweight cornering controls"
+    ],
+    "cons": [
+      "High regular service rates",
+      "Vibrations at high highway cruising RPMs"
+    ],
+    "imageUrl": "/images/bmw-motorrad-g-310-r.jpg",
+    "officialWebsite": "https://www.bmw-motorrad.in",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "BMW Motorrad G 310 GS",
+    "brand": "BMW Motorrad",
+    "engineCC": 313,
+    "mileage": 28,
+    "topSpeed": 143,
+    "price": 330000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 175,
+    "seatHeight": 835,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ],
+    "features": [
+      "Long travel suspension",
+      "Luggage Rack",
+      "Slipper Clutch",
+      "Windshield"
+    ],
+    "pros": [
+      "Incredible comfort over bumps",
+      "GS adventure road look",
+      "Easy handling characteristics"
+    ],
+    "cons": [
+      "Brakes feel slightly spongy",
+      "Single cylinder engine gets buzzes"
+    ],
+    "imageUrl": "/images/bmw-motorrad-g-310-gs.jpg",
+    "officialWebsite": "https://www.bmw-motorrad.in",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "BMW Motorrad S 1000 RR",
+    "brand": "BMW Motorrad",
+    "engineCC": 999,
+    "mileage": 15,
+    "topSpeed": 299,
+    "price": 2075000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 197,
+    "seatHeight": 824,
+    "reliabilityScore": 9,
+    "beginnerFriendly": false,
+    "resaleValue": "High",
+    "categories": [
+      "Sports",
+      "Superbike"
+    ],
+    "features": [
+      "ShiftCam Engine Tech",
+      "DTC (Traction Control)",
+      "6-axis IMU modes",
+      "BMW TFT dashboard"
+    ],
+    "pros": [
+      "Colossal engine performance",
+      "Exceptional track technology pack",
+      "Stark aerodynamic winglets design"
+    ],
+    "cons": [
+      "Aggressive sports posture limits use",
+      "Extremely expensive initial cost"
+    ],
+    "imageUrl": "/images/bmw-motorrad-s-1000-rr.jpg",
+    "officialWebsite": "https://www.bmw-motorrad.in",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Ducati Scrambler Icon",
+    "brand": "Ducati",
+    "engineCC": 803,
+    "mileage": 19,
+    "topSpeed": 190,
+    "price": 1039000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 185,
+    "seatHeight": 795,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Retro",
+      "Street"
+    ],
+    "features": [
+      "Desmodromic L-Twin",
+      "Cornering ABS",
+      "Ducati Traction Control",
+      "4.3-inch TFT Screen"
+    ],
+    "pros": [
+      "Very manageable power delivery",
+      "Iconic customizable look",
+      "Light handling in curves"
+    ],
+    "cons": [
+      "Under-seat heat in summer traffic",
+      "Firm stock rear shock absorber"
+    ],
+    "imageUrl": "/images/ducati-scrambler-icon.jpg",
+    "officialWebsite": "https://www.ducati.com/in/en",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Ducati Monster",
+    "brand": "Ducati",
+    "engineCC": 937,
+    "mileage": 18,
+    "topSpeed": 225,
+    "price": 1295000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 188,
+    "seatHeight": 820,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Street",
+      "Superbike"
+    ],
+    "features": [
+      "Testastretta 11° Engine",
+      "Launch Control",
+      "Ducati Quick Shift",
+      "Riding modes"
+    ],
+    "pros": [
+      "Fierce low-to-mid acceleration",
+      "Lightweight aluminum frame",
+      "Sensational brake caliper force"
+    ],
+    "cons": [
+      "Radiator fan blasts heat on legs",
+      "High maintenance billing costs"
+    ],
+    "imageUrl": "/images/ducati-monster.jpg",
+    "officialWebsite": "https://www.ducati.com/in/en",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Harley-Davidson X440",
+    "brand": "Harley-Davidson",
+    "engineCC": 440,
+    "mileage": 32,
+    "topSpeed": 135,
+    "price": 239500,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 191,
+    "seatHeight": 800,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "High",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ],
+    "features": [
+      "Co-developed with Hero",
+      "Torquey Air-Oil Cooled",
+      "Circular digital console",
+      "Dual ABS"
+    ],
+    "pros": [
+      "Flat torquey exhaust note",
+      "Comfortable retro-cruiser seating",
+      "Accessible price tag"
+    ],
+    "cons": [
+      "Basic switchgear plastic quality",
+      "Low speed dashboard vibes"
+    ],
+    "imageUrl": "/images/harley-davidson-x440.jpg",
+    "officialWebsite": "https://www.harley-davidson.com/in",
+    "launchYear": 2023,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Harley-Davidson Sportster S",
+    "brand": "Harley-Davidson",
+    "engineCC": 1252,
+    "mileage": 18,
+    "topSpeed": 220,
+    "price": 1879000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 228,
+    "seatHeight": 765,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "High",
+    "categories": [
+      "Cruiser",
+      "Superbike"
+    ],
+    "features": [
+      "Revolution Max 1250T",
+      "Custom Riding Modes",
+      "Cornering ABS & DTC",
+      "High Mount Exhaust"
+    ],
+    "pros": [
+      "Furious engine power outputs",
+      "Stark fat tire styling look",
+      "Very low cruiser seat height"
+    ],
+    "cons": [
+      "Minimal rear suspension travel comfort",
+      "Exhaust pipes heat up right side"
+    ],
+    "imageUrl": "/images/harley-davidson-sportster-s.jpg",
+    "officialWebsite": "https://www.harley-davidson.com/in",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Aprilia RS 457",
+    "brand": "Aprilia",
+    "engineCC": 457,
+    "mileage": 30,
+    "topSpeed": 180,
+    "price": 410000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 175,
+    "seatHeight": 800,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Sports"
+    ],
+    "features": [
+      "Parallel Twin Liquid Engine",
+      "Ride by Wire Traction Control",
+      "Dual Channel ABS",
+      "TFT Display"
+    ],
+    "pros": [
+      "Exceptional twin cylinder performance",
+      "Premium track handling dynamics",
+      "Stunning RS superbike look"
+    ],
+    "cons": [
+      "Limited dealer network in small cities",
+      "Hard pillion seat setup"
+    ],
+    "imageUrl": "/images/aprilia-rs-457.jpg",
+    "officialWebsite": "https://www.aprilia.com/in_EN",
+    "launchYear": 2024,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Aprilia SR 160",
+    "brand": "Aprilia",
+    "engineCC": 160,
+    "mileage": 38,
+    "topSpeed": 100,
+    "price": 130000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "weight": 122,
+    "seatHeight": 780,
+    "reliabilityScore": 9,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Scooter",
+      "Street"
+    ],
+    "features": [
+      "High Performance 3V Engine",
+      "14-inch Alloy Wheels",
+      "ABS Brake",
+      "Sporty Decals"
+    ],
+    "pros": [
+      "Unmatched scooter handling",
+      "Imposing large wheel stance",
+      "Punchy engine response"
+    ],
+    "cons": [
+      "Very stiff suspension ride quality",
+      "Low under-seat storage space"
+    ],
+    "imageUrl": "/images/aprilia-sr-160.jpg",
+    "officialWebsite": "https://www.aprilia.com/in_EN",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Benelli Imperiale 400",
+    "brand": "Benelli",
+    "engineCC": 374,
+    "mileage": 32,
+    "topSpeed": 120,
+    "price": 235000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 205,
+    "seatHeight": 780,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ],
+    "features": [
+      "Split Seats",
+      "Analogue Dials",
+      "Chrome Fenders",
+      "Spoked Wheels"
+    ],
+    "pros": [
+      "Very smooth retro highway cruise",
+      "Classic styling elegance",
+      "Comfy long-haul seat design"
+    ],
+    "cons": [
+      "Heavy weight (205 kg)",
+      "Low ground clearance on speedbumps"
+    ],
+    "imageUrl": "/images/benelli-imperiale-400.jpg",
+    "officialWebsite": "https://india.benelli.com",
+    "launchYear": 2020,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Benelli TRK 502",
+    "brand": "Benelli",
+    "engineCC": 500,
+    "mileage": 24,
+    "topSpeed": 160,
+    "price": 585000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 235,
+    "seatHeight": 800,
+    "reliabilityScore": 8,
+    "beginnerFriendly": false,
+    "resaleValue": "Medium",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ],
+    "features": [
+      "Large Windshield",
+      "Luggage Carrier Frame",
+      "Backlit Controls",
+      "USB Charger"
+    ],
+    "pros": [
+      "Huge road presence like a big touring bike",
+      "Highly protective wind shield",
+      "Refined parallel twin motor"
+    ],
+    "cons": [
+      "Heavy weight makes low-speed turns scary",
+      "Basic electronic aids list"
+    ],
+    "imageUrl": "/images/benelli-trk-502.jpg",
+    "officialWebsite": "https://india.benelli.com",
+    "launchYear": 2021,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Jawa Jawa 350",
+    "brand": "Jawa",
+    "engineCC": 334,
+    "mileage": 30,
+    "topSpeed": 125,
+    "price": 215000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 194,
+    "seatHeight": 790,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ],
+    "features": [
+      "Dual Exhausts",
+      "Chrome Details",
+      "Analogue Console",
+      "Dual ABS"
+    ],
+    "pros": [
+      "Beautiful retro cruiser design",
+      "Refined liquid cooled engine",
+      "Classic dual exhaust beat"
+    ],
+    "cons": [
+      "Heavy weight footprint",
+      "Low seating is slightly tight for tall riders"
+    ],
+    "imageUrl": "/images/jawa-jawa-350.jpg",
+    "officialWebsite": "https://www.jawamotorcycles.com",
+    "launchYear": 2024,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Jawa 42 Bobber",
+    "brand": "Jawa",
+    "engineCC": 334,
+    "mileage": 30,
+    "topSpeed": 130,
+    "price": 228000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 175,
+    "seatHeight": 740,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ],
+    "features": [
+      "Single Float Seat",
+      "Bar-end Mirrors",
+      "Digital Console",
+      "Spoke Rims"
+    ],
+    "pros": [
+      "Unmatched street custom cruiser style",
+      "Ultra-low seat height accessibility",
+      "Punchy engine acceleration"
+    ],
+    "cons": [
+      "Strictly single-seater (no pillion possible)",
+      "Stiff rear suspension comfort"
+    ],
+    "imageUrl": "/images/jawa-42-bobber.jpg",
+    "officialWebsite": "https://www.jawamotorcycles.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Yezdi Roadster",
+    "brand": "Yezdi",
+    "engineCC": 334,
+    "mileage": 32,
+    "topSpeed": 130,
+    "price": 206000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 184,
+    "seatHeight": 790,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ],
+    "features": [
+      "Dual Exhausts",
+      "Digital Console",
+      "Bar-end mirrors",
+      "ABS Modes"
+    ],
+    "pros": [
+      "Great throttle response",
+      "Excellent retro cruiser design",
+      "Good highway touring speed"
+    ],
+    "cons": [
+      "Slightly stiff gearbox feel",
+      "Vibrations felt past 6000 RPM"
+    ],
+    "imageUrl": "/images/yezdi-roadster.jpg",
+    "officialWebsite": "https://www.yezdi.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  },
+  {
+    "bikeName": "Yezdi Scrambler",
+    "brand": "Yezdi",
+    "engineCC": 334,
+    "mileage": 30,
+    "topSpeed": 125,
+    "price": 212000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "weight": 182,
+    "seatHeight": 800,
+    "reliabilityScore": 8,
+    "beginnerFriendly": true,
+    "resaleValue": "Medium",
+    "categories": [
+      "Retro",
+      "Off-Road"
+    ],
+    "features": [
+      "High Fender Design",
+      "Spoke Rims",
+      "Dual Exhaust pipes",
+      "Off-road ABS mode"
+    ],
+    "pros": [
+      "Cool scrambler style appeal",
+      "Fun to ride on dirt",
+      "Aggressive exhaust note"
+    ],
+    "cons": [
+      "Tall exhaust gets warm for passenger",
+      "Stiff rear shock travel"
+    ],
+    "imageUrl": "/images/yezdi-scrambler.jpg",
+    "officialWebsite": "https://www.yezdi.com",
+    "launchYear": 2022,
+    "availability": "Available"
+  }
+]

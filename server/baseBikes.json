@@ -1,0 +1,444 @@
+[
+  {
+    "brand": "Hero",
+    "model": "Splendor Plus",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Hero",
+    "model": "HF Deluxe",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Hero",
+    "model": "Glamour Xtec",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Hero",
+    "model": "Xpulse 200 4V",
+    "categories": [
+      "Adventure",
+      "Off-Road"
+    ]
+  },
+  {
+    "brand": "Hero",
+    "model": "Karizma XMR",
+    "categories": [
+      "Sports",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Hero",
+    "model": "Mavrick 440",
+    "categories": [
+      "Retro",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "Activa 6G",
+    "categories": [
+      "Scooter",
+      "Commuter"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "Shine 125",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "Unicorn",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "H'ness CB350",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "CB300R",
+    "categories": [
+      "Street",
+      "Sports"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "MT-15 V2",
+    "categories": [
+      "Street",
+      "Sports"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "R15 V4",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "FZ-S FI V4",
+    "categories": [
+      "Street",
+      "Commuter"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "Aerox 155",
+    "categories": [
+      "Scooter",
+      "Sports"
+    ]
+  },
+  {
+    "brand": "KTM",
+    "model": "Duke 200",
+    "categories": [
+      "Street",
+      "Sports"
+    ]
+  },
+  {
+    "brand": "KTM",
+    "model": "Duke 390",
+    "categories": [
+      "Street",
+      "Sports"
+    ]
+  },
+  {
+    "brand": "KTM",
+    "model": "390 Adventure",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "Royal Enfield",
+    "model": "Classic 350",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ]
+  },
+  {
+    "brand": "Royal Enfield",
+    "model": "Hunter 350",
+    "categories": [
+      "Street",
+      "Retro"
+    ]
+  },
+  {
+    "brand": "Royal Enfield",
+    "model": "Himalayan 450",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "Royal Enfield",
+    "model": "Interceptor 650",
+    "categories": [
+      "Retro",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Platina 110",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Pulsar 150",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Pulsar NS200",
+    "categories": [
+      "Street",
+      "Sports"
+    ]
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Dominar 400",
+    "categories": [
+      "Touring",
+      "Street"
+    ]
+  },
+  {
+    "brand": "TVS",
+    "model": "Raider 125",
+    "categories": [
+      "Commuter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "TVS",
+    "model": "Apache RTR 160 4V",
+    "categories": [
+      "Street",
+      "Sports"
+    ]
+  },
+  {
+    "brand": "TVS",
+    "model": "Ronin",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ]
+  },
+  {
+    "brand": "TVS",
+    "model": "Apache RR 310",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Access 125",
+    "categories": [
+      "Scooter",
+      "Commuter"
+    ]
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Gixxer SF 250",
+    "categories": [
+      "Sports",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "Suzuki",
+    "model": "V-Strom SX 250",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Hayabusa",
+    "categories": [
+      "Sports",
+      "Superbike"
+    ]
+  },
+  {
+    "brand": "Kawasaki",
+    "model": "Ninja 300",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "brand": "Kawasaki",
+    "model": "Ninja ZX-4R",
+    "categories": [
+      "Sports",
+      "Superbike"
+    ]
+  },
+  {
+    "brand": "Kawasaki",
+    "model": "Ninja 650",
+    "categories": [
+      "Sports",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "Kawasaki",
+    "model": "Z900",
+    "categories": [
+      "Street",
+      "Superbike"
+    ]
+  },
+  {
+    "brand": "Triumph",
+    "model": "Speed 400",
+    "categories": [
+      "Retro",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Triumph",
+    "model": "Scrambler 400X",
+    "categories": [
+      "Retro",
+      "Off-Road"
+    ]
+  },
+  {
+    "brand": "Triumph",
+    "model": "Trident 660",
+    "categories": [
+      "Street"
+    ]
+  },
+  {
+    "brand": "BMW Motorrad",
+    "model": "G 310 R",
+    "categories": [
+      "Street"
+    ]
+  },
+  {
+    "brand": "BMW Motorrad",
+    "model": "G 310 GS",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "BMW Motorrad",
+    "model": "S 1000 RR",
+    "categories": [
+      "Sports",
+      "Superbike"
+    ]
+  },
+  {
+    "brand": "Ducati",
+    "model": "Scrambler Icon",
+    "categories": [
+      "Retro",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Ducati",
+    "model": "Monster",
+    "categories": [
+      "Street",
+      "Superbike"
+    ]
+  },
+  {
+    "brand": "Harley-Davidson",
+    "model": "X440",
+    "categories": [
+      "Cruiser",
+      "Retro"
+    ]
+  },
+  {
+    "brand": "Harley-Davidson",
+    "model": "Sportster S",
+    "categories": [
+      "Cruiser",
+      "Superbike"
+    ]
+  },
+  {
+    "brand": "Aprilia",
+    "model": "RS 457",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "brand": "Aprilia",
+    "model": "SR 160",
+    "categories": [
+      "Scooter",
+      "Street"
+    ]
+  },
+  {
+    "brand": "Benelli",
+    "model": "Imperiale 400",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ]
+  },
+  {
+    "brand": "Benelli",
+    "model": "TRK 502",
+    "categories": [
+      "Adventure",
+      "Touring"
+    ]
+  },
+  {
+    "brand": "Jawa",
+    "model": "Jawa 350",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ]
+  },
+  {
+    "brand": "Jawa",
+    "model": "42 Bobber",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ]
+  },
+  {
+    "brand": "Yezdi",
+    "model": "Roadster",
+    "categories": [
+      "Retro",
+      "Cruiser"
+    ]
+  },
+  {
+    "brand": "Yezdi",
+    "model": "Scrambler",
+    "categories": [
+      "Retro",
+      "Off-Road"
+    ]
+  }
+]
